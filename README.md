@@ -15,12 +15,12 @@ obsolete feature. One could simply be plugged into the system and other can
 simply be plugged out from the system.  
 
 
-###Components
+### Components
 
 The framework offers many core components as explained below.
 
 
-####router
+#### router
 Router is one of the core component. It allows to define api endpoints to be exposed externally
 
 **main.go**
@@ -53,7 +53,7 @@ func main() {
 
 ```
 
-####server
+#### server
 It's a typical http server module. Provide apis to start the server with configure the routing.
 
 **main.go**
@@ -87,6 +87,6 @@ func main() {
 ```
 
 
-###Maintainer
+### Maintainer
 
 Upendra Dev Singh 
